@@ -4,3 +4,6 @@ secrets.txt
 
 *.dll
 #ignore all the the files with .dll
+
+word-mastermind/
+quakejs/
