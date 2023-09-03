@@ -1,0 +1,6 @@
+secrets.txt
+
+#this is a comment
+
+*.dll
+#ignore all the the files with .dll
